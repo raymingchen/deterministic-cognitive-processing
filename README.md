@@ -1,2 +1,2 @@
 # Cognitive-processing
-a code for my manuscript submitted to applied soft computing
+ Codes for my manuscript submitted to applied soft computing regarding deterministic (cognitive.R) and indeterministic (rough30.R) cognitive processing.
